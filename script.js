@@ -106,7 +106,7 @@ async function ShowData() {
           <h1>Post Offices Near You</h1>
           <div class="box">
             <input type="search" name="" id="searchBox" onkeyup="searchKey()"/>
-            <img src="./Vector (3).png" alt="" />
+            <img src="./Vector.png" alt="" />
           </div>
         </div>
         <div id="postalCard"></div>
